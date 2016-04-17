@@ -4,42 +4,26 @@
     
         
     <url>
-     <loc>None/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tj.flyabroad.hk/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/na/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tj.flyabroad.hk/na/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/oc/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tj.flyabroad.hk/oc/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/eu/</loc>
-     <lastmod>2016-04-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>None/na/ca/</loc>
-     <lastmod>2016-04-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/na/us/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tj.flyabroad.hk/eu/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -48,14 +32,14 @@
     
         
     <url>
-     <loc>None/oc/au/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tj.flyabroad.hk/na/ca/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/oc/nz/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tj.flyabroad.hk/na/us/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -64,8 +48,24 @@
     
         
     <url>
-     <loc>None/eu/uk/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tj.flyabroad.hk/oc/au/</loc>
+     <lastmod>2016-04-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tj.flyabroad.hk/oc/nz/</loc>
+     <lastmod>2016-04-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://tj.flyabroad.hk/eu/uk/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
