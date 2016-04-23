@@ -4,41 +4,25 @@
     
         
     <url>
-     <loc>http://tj.flyabroad.hk/</loc>
+     <loc>http://tj.flyabroad.com.hk/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tj.flyabroad.hk/na/</loc>
+     <loc>http://tj.flyabroad.com.hk/na/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tj.flyabroad.hk/oc/</loc>
+     <loc>http://tj.flyabroad.com.hk/oc/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tj.flyabroad.hk/eu/</loc>
-     <lastmod>2016-04-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>http://tj.flyabroad.hk/na/ca/</loc>
-     <lastmod>2016-04-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://tj.flyabroad.hk/na/us/</loc>
+     <loc>http://tj.flyabroad.com.hk/eu/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -48,13 +32,13 @@
     
         
     <url>
-     <loc>http://tj.flyabroad.hk/oc/au/</loc>
+     <loc>http://tj.flyabroad.com.hk/na/ca/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tj.flyabroad.hk/oc/nz/</loc>
+     <loc>http://tj.flyabroad.com.hk/na/us/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -64,7 +48,23 @@
     
         
     <url>
-     <loc>http://tj.flyabroad.hk/eu/uk/</loc>
+     <loc>http://tj.flyabroad.com.hk/oc/au/</loc>
+     <lastmod>2016-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tj.flyabroad.com.hk/oc/nz/</loc>
+     <lastmod>2016-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://tj.flyabroad.com.hk/eu/uk/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
